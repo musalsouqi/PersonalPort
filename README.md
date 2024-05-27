@@ -13,8 +13,8 @@ Welcome to my repository of school projects! This repository contains a collecti
 
 ## Java Projects
 This folder contains various projects and assignments written in Java. Examples include:
-- **Project 1**: Description of Project 1.
-- **Project 2**: Description of Project 2.
+- [Basic Oupput lab activity](https://github.com/musalsouqi/PersonalPort/blob/main/SchoolLabs/src/BasicOutput.java)
+- [Input Casting lab activity](https://github.com/musalsouqi/PersonalPort/blob/main/SchoolLabs/src/InputCasting.java)
 
 ## C++ Projects
 This folder contains various projects and assignments written in C++. Examples include:
