@@ -18,8 +18,7 @@ This folder contains various projects and assignments written in Java. Examples 
 
 ## C++ Projects
 This folder contains various projects and assignments written in C++. Examples include:
-- **Project 1**: Description of Project 1.
-- **Project 2**: Description of Project 2.
+Havent Started this course yet will update when class starts!
 
 ## Python Projects
 This folder contains various projects and assignments written in Python. Examples include:
